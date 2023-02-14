@@ -1,13 +1,10 @@
-# Socket Server Basico
+# Basic web socket server
 
-Un servidor de Websockets usando Node, Express y Socket.io
+A Websockets server using Node, Express and Socket.io
 
-Temas cubiertos en mi curso de Node de cero a experto
-
-Por defecto, de manera común y por liberar espacio. Se elimina el directorio node_modules,
-que contienen todas las dependencias npm que son necesarias para la aplicación,
-para hacer que vuelvan a estar operativas usar comando:
+## The following commands are recommended for use
 
 ~~~ command
-npm install
+npm ci
+npm run start
 ~~~
